@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Unit 7 Homework Assignment: Looking for Suspicious Transactions
 
 ![Credit card fraudster](Images/credit_card_fraudster.jpg)
@@ -187,3 +188,6 @@ For comparing time and dates, take a look at the [date/time functions and operat
 ---
 
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+=======
+# Fraud-Analysis using SQLAlchemy
+>>>>>>> 5e46f2f61ef8ed7d2c160ff63035f066380b3525
